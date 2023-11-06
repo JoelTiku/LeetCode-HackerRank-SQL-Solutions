@@ -1,6 +1,6 @@
 # LeetCode HackerRank Q&A
 
-## Blind 75 LeetCode Questions
+## SQL Coding Questions and Answers
 
 ### Running this Project Locally
 
@@ -164,15 +164,7 @@ C:\ git branch -d <new-branch-name>
 ### Array using Java
 
 - [BestTimetoBuyandSellStock.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/BestTimetoBuyandSellStock.java)
-- [ContainerWithMostWater.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/ContainerWithMostWater.java)
-- [FindMinimuminRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/FindMinimuminRotatedSortedArray.java)
-- [MaximumProductSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/MaximumProductSubarray.java)
-- [MaximumSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/MaximumSubarray.java)
-- [ProductofArrayExceptSelf.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/ProductofArrayExceptSelf.java)
-- [SearchinRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/SearchinRotatedSortedArray.java)
-- [ThreeSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/ThreeSum.java)
-- [TwoSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/TwoSum.java)
-- [containsDuplicate.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/containsDuplicate.java)
+
 
 
 
@@ -183,8 +175,3 @@ C:\ git branch -d <new-branch-name>
 ### Amazon SDE Coding Challenges
 
 - [OptimizingBoxWeights.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Companies/Amazon/OptimizingBoxWeights.java)
-- [OptimizingBoxWeights.py](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Companies/Amazon/OptimizingBoxWeights.py)
-- [RegexValidator.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Companies/Amazon/RegexValidator.java)
-- [RegexValidator.py](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Companies/Amazon/RegexValidator.py)
-- [SortSummary.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Companies/Amazon/SortSummary.java)
-- [SortSummary.py](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Companies/Amazon/SortSummary.py)
