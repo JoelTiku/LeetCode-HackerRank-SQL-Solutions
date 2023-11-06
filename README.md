@@ -161,17 +161,17 @@ C:\ git branch -d <new-branch-name>
 
 ```
 
-### Array using Java
+### Aggregate Function
 
-- [BestTimetoBuyandSellStock.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/BestTimetoBuyandSellStock.java)
-
-
+- [Countries You Can Safely Invest In.sql](https://github.com/JoelTiku/LeetCode-HackerRank-SQL-Solutions/blob/main/LeetCode/SQL/Aggregate%20Function/Countries%20You%20Can%20Safely%20Invest%20In.sql)
 
 
 
 
 
 
-### Amazon SDE Coding Challenges
 
-- [OptimizingBoxWeights.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Companies/Amazon/OptimizingBoxWeights.java)
+
+### Amazon BIE Coding Challenges
+
+- [SumUptoCurrentRow.sql](https://github.com/JoelTiku/LeetCode-HackerRank-SQL-Solutions/blob/main/Companies/Amazon/Generating%20a%20Cumulative%20Salary%20Table%20Using%20Only%20DML%20Operations%20in%20SQL.sql)
