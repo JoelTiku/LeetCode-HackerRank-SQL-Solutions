@@ -12,15 +12,15 @@ Cumulative: The cumulative sum of the "Salary" column up to the current row
 Keep in mind that no pre-existing tables or data are available and that the solution should only involve DML operations (Data Manipulation Language: SELECT, INSERT, UPDATE, DELETE). What SQL script would you write to accomplish this?
 
 Output:
-+-------+-----------+-----------------------------------+
-|  ID   |  Salary   |  Cumulative   |                   |
-+-------+-----------+---------------+-------------------+
-|	1	|	1000        |	 1000		|
-|	2	|	1100        |	 2100		|
-|	3	|	1200        |	 3300		|
-|	4	|	1300        |	 4600		|
-|	5	|	1400        |	 6000		|
-+-------+-----------+---------------+-------------------+
++-------+-----------+----------------
+|  ID   |  Salary   |  Cumulative   |
++-------+-----------+---------------+
+|  1	|  1000     |	 1000	    |
+|  2	|  1100     |	 2100	    |
+|  3	|  1200     |	 3300       |
+|  4	|  1300     |	 4600	    |
+|  5	|  1400     |	 6000	    |
++-------+-----------+---------------+
 
 */
 
